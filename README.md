@@ -57,7 +57,7 @@ This is a personal learning project developed with substantial assistance from A
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/weather-reminder.git
+git clone https://github.com/hyh203/weather-reminder
 cd weather-reminder
 
 # 安装依赖
